@@ -1,10 +1,18 @@
-## Hi there 👋
+## Hi there 👋 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <p> I'm Mateusz - Software developer </p>
+    <img src="https://skillicons.dev/icons?i=python,cpp,flask,postgres,git,linux,jenkins,docker,k8s,azure" />
+  </a>
+</p>
+
 
 <!--
 **MateuszMusial/MateuszMusial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=janKowalski&show_icons=true&theme=radical)
 Here are some ideas to get you started:
-
+python,cpp,flask,postgres,git,linux,jenkins,docker,k8s,azure
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
