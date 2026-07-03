@@ -36,7 +36,3 @@ Software developer building AI systems across **agentic tooling**, **RAG/NLP**, 
 **AI/ML focus:** LangChain · FAISS · RAGAS · Model Context Protocol (MCP) · PyTorch · YOLO · OpenCV
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MateuszMusial&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-</div>
